@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\GitHub\Clasegeneral\tienda1\tienda1\obj\Debug\tienda1.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Clasegeneral\tienda1\tienda1\obj\Debug\tienda1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Clasegeneral\tienda1\tienda1\bin\Debug\tienda1.exe.config
+C:\Users\PC\Documents\GitHub\Clasegeneral\tienda1\tienda1\bin\Debug\tienda1.exe
+C:\Users\PC\Documents\GitHub\Clasegeneral\tienda1\tienda1\bin\Debug\tienda1.pdb
+C:\Users\PC\Documents\GitHub\Clasegeneral\tienda1\tienda1\obj\Debug\tienda1.exe
+C:\Users\PC\Documents\GitHub\Clasegeneral\tienda1\tienda1\obj\Debug\tienda1.pdb
