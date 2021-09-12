@@ -5,3 +5,10 @@ C:\Users\50370\Documents\GitHub\Clasegeneral\Promedio2\Promedio2\bin\Debug\Prome
 C:\Users\50370\Documents\GitHub\Clasegeneral\Promedio2\Promedio2\bin\Debug\Promedio2.pdb
 C:\Users\50370\Documents\GitHub\Clasegeneral\Promedio2\Promedio2\obj\Debug\Promedio2.exe
 C:\Users\50370\Documents\GitHub\Clasegeneral\Promedio2\Promedio2\obj\Debug\Promedio2.pdb
+C:\Users\PC\Documents\GitHub\Clasegeneral\Promedio2\Promedio2\bin\Debug\Promedio2.exe.config
+C:\Users\PC\Documents\GitHub\Clasegeneral\Promedio2\Promedio2\bin\Debug\Promedio2.exe
+C:\Users\PC\Documents\GitHub\Clasegeneral\Promedio2\Promedio2\bin\Debug\Promedio2.pdb
+C:\Users\PC\Documents\GitHub\Clasegeneral\Promedio2\Promedio2\obj\Debug\Promedio2.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Clasegeneral\Promedio2\Promedio2\obj\Debug\Promedio2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Clasegeneral\Promedio2\Promedio2\obj\Debug\Promedio2.exe
+C:\Users\PC\Documents\GitHub\Clasegeneral\Promedio2\Promedio2\obj\Debug\Promedio2.pdb

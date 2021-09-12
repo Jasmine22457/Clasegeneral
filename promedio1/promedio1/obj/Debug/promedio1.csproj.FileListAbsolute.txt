@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\promedio1\promedio1\bin\Debug\promedio1.exe.config
+C:\Users\PC\Desktop\promedio1\promedio1\bin\Debug\promedio1.exe
+C:\Users\PC\Desktop\promedio1\promedio1\bin\Debug\promedio1.pdb
+C:\Users\PC\Desktop\promedio1\promedio1\obj\Debug\promedio1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\promedio1\promedio1\obj\Debug\promedio1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\promedio1\promedio1\obj\Debug\promedio1.exe
+C:\Users\PC\Desktop\promedio1\promedio1\obj\Debug\promedio1.pdb
