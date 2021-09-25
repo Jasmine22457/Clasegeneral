@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\practica_promedios\practica_promedios\bin\Debug\practica_promedios.exe.config
+C:\Users\PC\source\repos\practica_promedios\practica_promedios\bin\Debug\practica_promedios.exe
+C:\Users\PC\source\repos\practica_promedios\practica_promedios\bin\Debug\practica_promedios.pdb
+C:\Users\PC\source\repos\practica_promedios\practica_promedios\obj\Debug\practica_promedios.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\practica_promedios\practica_promedios\obj\Debug\practica_promedios.Form1.resources
+C:\Users\PC\source\repos\practica_promedios\practica_promedios\obj\Debug\practica_promedios.Properties.Resources.resources
+C:\Users\PC\source\repos\practica_promedios\practica_promedios\obj\Debug\practica_promedios.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\practica_promedios\practica_promedios\obj\Debug\practica_promedios.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\practica_promedios\practica_promedios\obj\Debug\practica_promedios.exe
+C:\Users\PC\source\repos\practica_promedios\practica_promedios\obj\Debug\practica_promedios.pdb
