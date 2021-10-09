@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\BaseDeDatosEstudiantes1\BaseDeDatosEstudiantes1\bin\Debug\BaseDeDatosEstudiantes1.exe.config
+C:\Users\PC\source\repos\BaseDeDatosEstudiantes1\BaseDeDatosEstudiantes1\bin\Debug\BaseDeDatosEstudiantes1.exe
+C:\Users\PC\source\repos\BaseDeDatosEstudiantes1\BaseDeDatosEstudiantes1\bin\Debug\BaseDeDatosEstudiantes1.pdb
+C:\Users\PC\source\repos\BaseDeDatosEstudiantes1\BaseDeDatosEstudiantes1\bin\Debug\EntityFramework.dll
+C:\Users\PC\source\repos\BaseDeDatosEstudiantes1\BaseDeDatosEstudiantes1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\source\repos\BaseDeDatosEstudiantes1\BaseDeDatosEstudiantes1\bin\Debug\EntityFramework.xml
+C:\Users\PC\source\repos\BaseDeDatosEstudiantes1\BaseDeDatosEstudiantes1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\source\repos\BaseDeDatosEstudiantes1\BaseDeDatosEstudiantes1\obj\Debug\BaseDeDatosEstudiantes1.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\BaseDeDatosEstudiantes1\BaseDeDatosEstudiantes1\obj\Debug\BaseDeDatosEstudiantes1.Form1.resources
+C:\Users\PC\source\repos\BaseDeDatosEstudiantes1\BaseDeDatosEstudiantes1\obj\Debug\BaseDeDatosEstudiantes1.Properties.Resources.resources
+C:\Users\PC\source\repos\BaseDeDatosEstudiantes1\BaseDeDatosEstudiantes1\obj\Debug\BaseDeDatosEstudiantes1.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\BaseDeDatosEstudiantes1\BaseDeDatosEstudiantes1\obj\Debug\BaseDeDatosEstudiantes1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\BaseDeDatosEstudiantes1\BaseDeDatosEstudiantes1\obj\Debug\BaseDeDatosEstudiantes1.csproj.CopyComplete
+C:\Users\PC\source\repos\BaseDeDatosEstudiantes1\BaseDeDatosEstudiantes1\obj\Debug\BaseDeDatosEstudiantes1.exe
+C:\Users\PC\source\repos\BaseDeDatosEstudiantes1\BaseDeDatosEstudiantes1\obj\Debug\BaseDeDatosEstudiantes1.pdb
+C:\Users\PC\source\repos\BaseDeDatosEstudiantes1\BaseDeDatosEstudiantes1\obj\Debug\BaseDeDatosEstudiantes1.Vista.Form2cs.resources
+C:\Users\PC\source\repos\BaseDeDatosEstudiantes1\BaseDeDatosEstudiantes1\obj\Debug\BaseDeDatosEstudiantes1.Vista.Notas.resources
